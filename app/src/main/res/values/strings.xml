@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">TinggalIn</string>
+
+    <!--Login String-->
+    <string name="str_welcome">Selamat Datang,</string>
+    <string name="str_welcome2">Di aplikasi kontrakan rumah TinggalIn</string>
+    <string name="str_title_login">LOGIN PEMILIK KONTRAKAN</string>
+    <string name="str_title_username">Username</string>
+    <string name="str_hint_username">Username</string>
+    <string name="str_title_password">Password</string>
+    <string name="str_hint_password">Password</string>
+    <string name="str_btn_login">Login</string>
+    <string name="str_kalimat_register">belum punya akun?</string>
+    <string name="str_register">Daftar Disini</string>
+    <string name="str_forgot_password">Anda lupa password?</string>
+    <string name="str_mark">TinggalIn 2021</string>
+
+    <!--Login Register-->
+    <string name="str_title_register_pemilik">PENDAFTARAN PEMILIK</string>
+    <string name="str_hint_reg_email">Email</string>
+    <string name="str_hint_reg_username">Username</string>
+    <string name="str_hint_reg_password">Password</string>
+    <string name="str_hint_reg_con_password">Confirm Password</string>
+    <string name="str_reg_gender">Jenis Kelamin</string>
+    <string name="str_gender_male">Pria</string>
+    <string name="str_gender_female">Wanita</string>
+    <string name="str_reg_age">Usia</string>
+    <string name="str_reg_year">tahun</string>
+    <string name="str_reg_term_and_condition">Setujui Syarat &amp; Ketentuan</string>
+    <string name="str_reg_term_and_condition2">Syarat &amp; Ketentuan</string>
+    <string name="str_btn_cancel">Batal</string>
+    <string name="str_btn_regist">Daftar</string>
+
+    <!--Login Register-->
+    <string name="str_title_profil_pemilik">PROFIL PEMILIK</string>
+    <string name="str_ex_name">Nama</string>
+    <string name="str_ex_age">umur</string>
+    <string name="str_ex_gender">jenis kelamin</string>
+    <string name="str_btn_back">Kembali</string>
+    <string name="str_btn_edit">Ubah</string>
+
+
+    <string name="str_title_list_kontrakan_activity">List Data Kontrakan Anda</string>
+    <string name="str_hint_search">Cari Kontrakan Anda disini!!</string>
+    <string name="str_title_list">List Kontrakan Milik Anda</string>
+    <string name="str_kontrakan_name">Ini Nama Kontrakan</string>
+    <string name="str_owner_name">Ini Nama Pemiliknya</string>
+    <string name="str_kontrakan_location">Ini Alamat kontrakan</string>
+    <string name="str_harga_sewa">Harga sewa: </string>
+
+    <string name="str_title_form_kontrakan">FORMULIR DATA KONTRAKAN</string>
+    <string name="str_hint_kontrakan_name">Nama Kontrakan</string>
+    <string name="str_hint_owner_name">Nama Pemilik</string>
+    <string name="str_hint_kontrakan_location">Alamat kontrakan</string>
+    <string name="str_hint_harga_sewa">Harga sewa per bulan</string>
+    <string name="str_btn_tambah">Tambah</string>
+
+
+</resources>
